@@ -1,0 +1,28 @@
+body{
+    background: url("https://th.bing.com/th/id/R.7631615ffece7d31602021ea3615c3d7?rik=boxyECV%2fR1u9mg&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+   
+}   
+
+.recuadros {
+   
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+    background: rgb(0, 3, 5);
+    height: 100px;
+    width: 300px; 
+    position: static;   
+
+    
+}
+.cuadro {
+    color: rgb(252, 252, 252);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+

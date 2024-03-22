@@ -1,0 +1,24 @@
+body {
+    background: url("https://i.gifer.com/HQTr.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+
+
+}
+
+.container {
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 12px; */
+    
+    display: flex;
+    flex-wrap: wrap;
+    height: 300px;
+}
+
+.producto {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    <footer>
+}
