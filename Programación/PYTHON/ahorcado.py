@@ -64,7 +64,7 @@ def ahorcado(indice,palabras,guiones,aleatorio,fallas,largo2):
 ahorcado(
     indice,palabras,guiones,aleatorio,fallas,largo2)
 # Invocamos ahorcado una vez adentro para que inicie la funcion por primera vez y la otra para q se repita
-
+print("Prueba github")
 
 
 
